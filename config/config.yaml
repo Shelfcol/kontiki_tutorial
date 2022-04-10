@@ -1,0 +1,2 @@
+bag_path: /home/gxf/multi-sensor-fusion/calib_ws/data/Garage-01.bag #填写绝对路径
+imu_topic_name: /imu1/data_sync

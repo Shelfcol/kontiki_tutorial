@@ -1,0 +1,7 @@
+#ifndef GLOBAL_DEFINITION_H_IN_
+#define GLOBAL_DEFINITION_H_IN_
+#include <iostream>
+#include <string>
+
+const std::string  WORK_SPACE_PATH = "@WORK_SPACE_PATH@";
+#endif

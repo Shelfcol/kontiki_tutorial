@@ -1,0 +1,5 @@
+*.bag
+/build
+/devel
+.vscode/
+/third_party/build-pangolin/*

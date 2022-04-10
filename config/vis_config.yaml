@@ -1,0 +1,2 @@
+trajectory_file_path: /home/gxf/multi-sensor-fusion/calib_ws/src/kontiki_tutorial/data/imu_data_res_kitti.txt
+data_type: KITTI # 支持KITTI ,TUM两种格式
